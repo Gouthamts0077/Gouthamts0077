@@ -1,7 +1,7 @@
 Hi, I'm Goutham T.S 👋
 
 🎓 B.Com Graduate from Kerala University | 🌱 Cybersecurity Enthusiast
-💻 Passionate about AI, Machine Learning, and Cybersecurity
+💻 Passionate about Cybersecurity, Ai and machine learning
 🚀 About Me
 
     🛡️ Currently exploring Cybersecurity and working on projects related to Phishing Detection, Steganalysis, and Encryption/Decryption.
